@@ -1,0 +1,7 @@
+data_surrogate/
+data_lbnl_chiller/
+repo/
+*.csv
+!sample_output_ticket_list_SURROGATE.csv
+__pycache__/
+.ipynb_checkpoints/
